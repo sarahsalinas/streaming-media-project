@@ -1,2 +1,2 @@
-# streaming-media-project
- project for GIT337
+# streaming-media
+ streaming media GIT 337 assignment
